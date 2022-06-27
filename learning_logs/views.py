@@ -1,5 +1,3 @@
-from errno import ENETUNREACH
-from hashlib import new
 from django.shortcuts import render
 from django.http import HttpResponseRedirect, Http404
 from django.core.urlresolvers import reverse
